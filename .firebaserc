@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-note-cd5ce": {
+      "hosting": {
+        "simpleNotePad": [
+          "crud-note-cd5ce"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-note-cd5ce"
+  }
+}
